@@ -1,0 +1,17 @@
+{
+    "preload_level01": {
+        "files": [
+            {
+            "type": "image",
+            "key": "crateEgg",
+            "url": "assets/sprites/crateEgg.png"
+            },
+            {
+            "type": "image",
+            "key": "egg",
+            "url": "assets/sprites/egg.png"
+            }
+        ]
+    }
+}
+  

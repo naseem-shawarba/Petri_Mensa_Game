@@ -1,0 +1,97 @@
+{
+  "preload_level06": {
+    "files": [
+      {
+        "type": "image",
+        "key": "crateOnions",
+        "url": "assets/sprites/crateOnions.png"
+      },
+      {
+        "type": "image",
+        "key": "crateTomatoes",
+        "url": "assets/sprites/crateTomatoes.png"
+      },
+      {
+        "type": "image",
+        "key": "crateCarrots",
+        "url": "assets/sprites/crateCarrots.png"
+      },
+      {
+        "type": "image",
+        "key": "pastaMaker",
+        "url": "assets/sprites/pastaMaker.png"
+      },
+      {
+        "type": "image",
+        "key": "cuttingBoardl6",
+        "url": "assets/sprites/cuttingBoard[lvl6].png"
+      },
+      {
+        "type": "image",
+        "key": "boiler[lvl6]",
+        "url": "assets/sprites/boiler[lvl6].png"
+      },
+      {
+        "type": "image",
+        "key": "pan[lvl6]",
+        "url": "assets/sprites/pan[lvl6].png"
+      },
+      {
+        "type": "image",
+        "key": "stationInput",
+        "url": "assets/sprites/stationInput.png"
+      },
+      {
+        "type": "image",
+        "key": "stationOutput",
+        "url": "assets/sprites/stationOutput.png"
+      },
+      {
+        "type": "image",
+        "key": "assemblyTable[lvl6]",
+        "url": "assets/sprites/assemblyTable[lvl6].png"
+      },
+      {
+        "type": "image",
+        "key": "onionDiced",
+        "url": "assets/sprites/onionDiced.png"
+      },
+      {
+        "type": "image",
+        "key": "pastaDry",
+        "url": "assets/sprites/pastaDry.png"
+      },
+      {
+        "type": "image",
+        "key": "pastaDone",
+        "url": "assets/sprites/carrot.png"
+      },
+      {
+        "type": "image",
+        "key": "pastaDish",
+        "url": "assets/sprites/pastaDish.png"
+      },
+      {
+        "type": "image",
+        "key": "carrotOnionRoasted",
+        "url": "assets/sprites/carrotOnionRoasted.png"
+      },
+      {
+        "type": "image",
+        "key": "tomatoSauceCooked",
+        "url": "assets/sprites/tomatoSauceCooked.png"
+      },
+      {
+        "type": "image",
+        "key": "carrot",
+        "url": "assets/sprites/carrot.png"
+      }
+      ,
+      {
+        "type": "image",
+        "key": "carrotCut",
+        "url": "assets/sprites/carrotCut.png"
+      }
+    ]
+  }
+}

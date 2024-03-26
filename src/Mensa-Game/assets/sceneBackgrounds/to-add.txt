@@ -1,0 +1,11 @@
+Files to Add:
+
+Cola (Dimension: 1600x1600)
+pauseIcon (Dimension: 512x512)
+resumeIcon (Dimension: 512x512)
+TimerBackground (Dimension: 529x264)
+WelcomeSceneBackground (Dimension: 3840x1872)
+mute (Dimension: 512x512)
+restartIcon (Dimension: 512x512)
+ScoreSceneBackground (Dimension: 1225x1225)
+unMute (Dimension: 512x512)

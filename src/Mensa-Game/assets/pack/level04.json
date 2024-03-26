@@ -1,0 +1,128 @@
+{
+  "preload_level04": {
+    "files": [
+      {
+        "type": "image",
+        "key": "crateBreadSlices",
+        "url": "assets/sprites/crateBreadSlices.png"
+      },{
+        "type": "image",
+        "key": "crateTomatoesDirty",
+        "url": "assets/sprites/crateTomatoesDirty.png"
+      },{
+        "type": "image",
+        "key": "crateCucumberDirty",
+        "url": "assets/sprites/crateCucumberDirty.png"
+      },{
+        "type": "image",
+        "key": "crateLettuceDirty",
+        "url": "assets/sprites/crateLettuceDirty.png"
+      },{
+        "type": "image",
+        "key": "crateChickenRaw",
+        "url": "assets/sprites/crateChickenRaw.png"
+      },{
+        "type": "image",
+        "key": "washingStation[lvl4]",
+        "url": "assets/sprites/washingStation[lvl4].png"
+      },{
+        "type": "image",
+        "key": "pan[lvl4]",
+        "url": "assets/sprites/pan[lvl4].png"
+      },{
+        "type": "image",
+        "key": "cuttingBoard1",
+        "url": "assets/sprites/cuttingBoard1[lvl4].png"
+      },{
+        "type": "image",
+        "key": "cuttingBoard2",
+        "url": "assets/sprites/cuttingBoard2[lvl4].png"
+      },{
+        "type": "image",
+        "key": "assemblyTable[lvl4]",
+        "url": "assets/sprites/assemblyTable[lvl4].png"
+      },{
+        "type": "image",
+        "key": "stationInput",
+        "url": "assets/sprites/stationInput.png"
+      },{
+        "type": "image",
+        "key": "stationInput",
+        "url": "assets/sprites/stationInput.png"
+      },{
+        "type": "image",
+        "key": "stationOutput",
+        "url": "assets/sprites/stationOutput.png"
+      },{
+        "type": "image",
+        "key": "tomatoDirty",
+        "url": "assets/sprites/tomatoDirty.png"
+      },{
+        "type": "image",
+        "key": "CucumberDirty",
+        "url": "assets/sprites/CucumberDirty.png"
+      },{
+        "type": "image",
+        "key": "LettuceDirty",
+        "url": "assets/sprites/LettuceDirty.png"
+      },{
+        "type": "image",
+        "key": "Bread",
+        "url": "assets/sprites/Bread.png"
+      },{
+        "type": "image",
+        "key": "ChickenRaw",
+        "url": "assets/sprites/ChickenRaw.png"
+      },{
+        "type": "image",
+        "key": "tomato",
+        "url": "assets/sprites/tomato.png"
+      },{
+        "type": "image",
+        "key": "CucumberClean",
+        "url": "assets/sprites/CucumberClean.png"
+      },{
+        "type": "image",
+        "key": "LettuceClean",
+        "url": "assets/sprites/LettuceClean.png"
+      },{
+        "type": "image",
+        "key": "tomatoSliced",
+        "url": "assets/sprites/tomatoSliced.png"
+      },{
+        "type": "image",
+        "key": "LettuceSliced",
+        "url": "assets/sprites/LettuceSliced.png"
+      },{
+        "type": "image",
+        "key": "CucumberSliced",
+        "url": "assets/sprites/CucumberSliced.png"
+      },{
+        "type": "image",
+        "key": "ChickenRawSliced",
+        "url": "assets/sprites/ChickenRawSliced.png"
+      },{
+        "type": "image",
+        "key": "BreadSliced",
+        "url": "assets/sprites/BreadSliced.png"
+      },{
+        "type": "image",
+        "key": "ChickenFried",
+        "url": "assets/sprites/ChickenFried.png"
+      },{
+        "type": "image",
+        "key": "BreadFried",
+        "url": "assets/sprites/BreadFried.png"
+      },{
+        "type": "image",
+        "key": "DishCesarSalad",
+        "url": "assets/sprites/DishCesarSalad.png"
+      },{
+        "type": "image",
+        "key": "finish",
+        "url": "assets/sprites/finish.png"
+      }
+      
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "preload_level05": {
+    "files": [
+     {
+        "type": "image",
+        "key": "crateGinger",
+        "url": "assets/sprites/crateGinger.png"
+      },{
+        "type": "image",
+        "key": "crateBeefBone",
+        "url": "assets/sprites/crateBeefBone.png"
+      },{
+        "type": "image",
+        "key": "crateNoodlesPHO",
+        "url": "assets/sprites/crateNoodlesPHO.png"
+      },{
+        "type": "image",
+        "key": "crateCarrotsDirty",
+        "url": "assets/sprites/crateCarrotsDirty.png"
+      },{
+        "type": "image",
+        "key": "cratePakChoiDirty",
+        "url": "assets/sprites/cratePakChoiDirty.png"
+      },{
+        "type": "image",
+        "key": "cuttingBoardl5",
+        "url": "assets/sprites/cuttingBoard[lvl5].png"
+      },{
+        "type": "image",
+        "key": "boiler[lvl5]",
+        "url": "assets/sprites/boiler[lvl5].png"
+      },{
+        "type": "image",
+        "key": "pan[lvl5]",
+        "url": "assets/sprites/pan[lvl5].png"
+      },{
+        "type": "image",
+        "key": "assemblyTable[lvl5]",
+        "url": "assets/sprites/assemblyTable[lvl5].png"
+      },{
+        "type": "image",
+        "key": "washingStation[lvl5]",
+        "url": "assets/sprites/washingStation[lvl5].png"
+      },{
+        "type": "image",
+        "key": "trashCan",
+        "url": "assets/sprites/trashCan.png"
+      },{
+        "type": "image",
+        "key": "stationInput",
+        "url": "assets/sprites/stationInput.png"
+      },{
+        "type": "image",
+        "key": "stationOutput",
+        "url": "assets/sprites/stationOutput.png"
+      },{
+        "type": "image",
+        "key": "BeefRaw",
+        "url": "assets/sprites/BeefRaw.png"
+      },{
+        "type": "image",
+        "key": "Ginger",
+        "url": "assets/sprites/Ginger.png"
+      },{
+        "type": "image",
+        "key": "BeefBone",
+        "url": "assets/sprites/BeefBone.png"
+      },{
+        "type": "image",
+        "key": "NoodlesPHO",
+        "url": "assets/sprites/NoodlesPHO.png"
+      },{
+        "type": "image",
+        "key": "carrotDirty",
+        "url": "assets/sprites/carrotDirty.png"
+      },{
+        "type": "image",
+        "key": "PakChoiDirty",
+        "url": "assets/sprites/PakChoiDirty.png"
+      },{
+        "type": "image",
+        "key": "BeefRawSliced",
+        "url": "assets/sprites/BeefRawSliced.png"
+      },{
+        "type": "image",
+        "key": "GingerSliced",
+        "url": "assets/sprites/GingerSliced.png"
+      },{
+        "type": "image",
+        "key": "CarrotSliced",
+        "url": "assets/sprites/CarrotSliced.png"
+      },{
+        "type": "image",
+        "key": "BeefBoneBrothGingerCarrot",
+        "url": "assets/sprites/BeefBoneBrothGingerCarrot.png"
+      },{
+        "type": "image",
+        "key": "PakChoiClean",
+        "url": "assets/sprites/PakChoiClean.png"
+      },{
+        "type": "image",
+        "key": "carrot",
+        "url": "assets/sprites/carrot.png"
+      },{
+        "type": "image",
+        "key": "BeefFried",
+        "url": "assets/sprites/BeefFried.png"
+      },{
+        "type": "image",
+        "key": "DishPhoNoodles",
+        "url": "assets/sprites/DishPhoNoodles.png"
+      },{
+        "type": "image",
+        "key": "Bone",
+        "url": "assets/sprites/Bone.png"
+      },{
+        "type": "image",
+        "key": "NoodlesPHOCooked",
+        "url": "assets/sprites/NoodlesPHOCooked.png"
+      },{
+        "type": "image",
+        "key": "wastebag",
+        "url": "assets/sprites/wastebag.png"
+      }
+
+    ]
+  }
+}
+

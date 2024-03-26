@@ -1,0 +1,107 @@
+{
+    "preload_level07": {
+        "files": [
+            {
+            "type": "image",
+            "key": "crateChiabatta",
+            "url": "assets/sprites/crateChiabatta.png"
+            },
+            {
+            "type": "image",
+            "key": "chiabatta",
+            "url": "assets/sprites/chiabatta.png"
+            },
+            {
+            "type": "image",
+            "key": "crateTomatoes",
+            "url": "assets/sprites/crateTomatoes.png"
+            },
+            {
+            "type": "image",
+            "key": "tomato",
+            "url": "assets/sprites/tomato.png"
+            },
+            {
+            "type": "image",
+            "key": "crateGarlic",
+            "url": "assets/sprites/crateGarlic.png"
+            },
+            {
+            "type": "image",
+            "key": "garlicBulb",
+            "url": "assets/sprites/garlicBulb.png"
+            },
+            {
+            "type": "image",
+            "key": "garlicClove",
+            "url": "assets/sprites/garlicClove.png"
+            },
+            {
+            "type": "image",
+            "key": "garlicMinced",
+            "url": "assets/sprites/garlicMinced.png"
+            },
+            {
+            "type": "image",
+            "key": "crateOliveOil7",
+            "url": "assets/sprites/crateOliveOil.png"
+            },
+            {
+            "type": "image",
+            "key": "oliveOil",
+            "url": "assets/sprites/oliveOil.png"
+            },
+            {
+            "type": "image",
+            "key": "tomatoDiced",
+            "url": "assets/sprites/tomatoDiced.png"
+            },
+            {
+            "type": "image",
+            "key": "chiabattaSliced",
+            "url": "assets/sprites/chiabattaSliced.png"
+            },
+            {
+            "type": "image",
+            "key": "tomatoGarlicOliveOil",
+            "url": "assets/sprites/tomatoGarlicOliveOil.png"
+            },
+            {
+            "type": "image",
+            "key": "chiabattaSlicedToasted",
+            "url": "assets/sprites/chiabattaSlicedToasted.png"
+            },
+            {
+            "type": "image",
+            "key": "bruschetta",
+            "url": "assets/sprites/bruschetta.png"
+            },
+            {
+            "type": "image",
+            "key": "assemblyTable7",
+            "url": "assets/sprites/assemblyTable[lvl7].png"
+            },
+            {
+            "type": "image",
+            "key": "cuttingBoard7",
+            "url": "assets/sprites/cuttingBoard[lvl7].png"
+            },
+            {
+            "type": "image",
+            "key": "pan7",
+            "url": "assets/sprites/pan[lvl7].png"
+            },
+            {
+            "type": "image",
+            "key": "stationInput",
+            "url": "assets/sprites/stationInput.png"
+            },
+            {
+            "type": "image",
+            "key": "stationOutput",
+            "url": "assets/sprites/stationOutput.png"
+            }
+        ]
+    }
+}
+  

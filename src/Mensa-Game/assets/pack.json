@@ -1,0 +1,110 @@
+{
+  "preload": {
+    "files": [
+      {
+        "type": "image",
+        "key": "defaultTile",
+        "url": "assets/tilemaps/tiles/default.png"
+      },{
+        "type": "image",
+        "key": "arrowDown",
+        "url": "assets/sprites/arrowDown.png"
+      },
+      {
+        "type": "image",
+        "key": "arrowLeft",
+        "url": "assets/sprites/arrowLeft.png"
+      },
+      {
+        "type": "image",
+        "key": "arrowRight",
+        "url": "assets/sprites/arrowRight.png"
+      },
+      {
+        "type": "image",
+        "key": "arrowUp",
+        "url": "assets/sprites/arrowUp.png"
+      },
+      {
+        "type": "image",
+        "key": "onion",
+        "url": "assets/sprites/onion.png"
+      },
+      {
+        "type": "image",
+        "key": "onionSliced",
+        "url": "assets/sprites/onionSliced.png"
+      },
+      {
+        "type": "image",
+        "key": "pastaDone",
+        "url": "assets/sprites/pastaDone.png"
+      },
+      {
+        "type": "image",
+        "key": "tomato",
+        "url": "assets/sprites/tomato.png"
+      },
+      {
+        "type": "image",
+        "key": "tomatoSliced",
+        "url": "assets/sprites/tomatoSliced.png"
+      },
+      {
+        "type": "image",
+        "key": "crateOnions",
+        "url": "assets/sprites/crateOnions.png"
+      },
+      {
+        "type": "image",
+        "key": "finish",
+        "url": "assets/sprites/finish.png"
+      },
+      {
+        "type": "image",
+        "key": "noneIngredient",
+        "url": "assets/sprites/noneIngredient.png"
+      },
+      {
+        "type": "image",
+        "key": "timerBackground",
+        "url": "assets/sceneBackgrounds/TimerBackground.png"
+      },
+      {
+        "type": "image",
+        "key": "scoreBackground",
+        "url": "assets/sceneBackgrounds/ScoreSceneBackground.png"
+      },
+      {
+        "type": "image",
+        "key": "resumeIcon",
+        "url": "assets/sceneBackgrounds/resumeIcon.png"
+      },
+      {
+        "type": "image",
+        "key": "pauseIcon",
+        "url": "assets/sceneBackgrounds/pauseIcon.png"
+      },
+      {
+        "type": "image",
+        "key": "restartIcon",
+        "url": "assets/sceneBackgrounds/restartIcon.png"
+      },
+      {
+        "type": "image",
+        "key": "Cola",
+        "url": "assets/sceneBackgrounds/Cola.png"
+      },
+      {
+        "type": "image",
+        "key": "muteIcon",
+        "url": "assets/sceneBackgrounds/mute.png"
+      },
+      {
+        "type": "image",
+        "key": "unmuteIcon",
+        "url": "assets/sceneBackgrounds/unMute.png"
+      }
+    ]
+  }
+}

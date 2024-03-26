@@ -1,0 +1,161 @@
+{
+    "preload_level08": {
+      "files": [
+        {
+          "type": "image",
+          "key": "crateButter",
+          "url": "assets/sprites/crateButter.png"
+        },
+        {
+          "type": "image",
+          "key": "crateCream",
+          "url": "assets/sprites/crateCream.png"
+        },
+        {
+          "type": "image",
+          "key": "crateLeek",
+          "url": "assets/sprites/crateLeek.png"
+        },
+        {
+          "type": "image",
+          "key": "crateOnions",
+          "url": "assets/sprites/crateOnions.png"
+        },
+        {
+          "type": "image",
+          "key": "crateSalmon",
+          "url": "assets/sprites/crateSalmon.png"
+        },
+        {
+          "type": "image",
+          "key": "crateWater",
+          "url": "assets/sprites/crateWater.png"
+        },
+        {
+          "type": "image",
+          "key": "crateEgg",
+          "url": "assets/sprites/crateEgg.png"
+        },
+        {
+          "type": "image",
+          "key": "pastaMaker",
+          "url": "assets/sprites/pastaMaker.png"
+        },
+        {
+          "type": "image",
+          "key": "cuttingBoard8",
+          "url": "assets/sprites/cuttingBoard[lvl8].png"
+        },
+        {
+          "type": "image",
+          "key": "boiler1",
+          "url": "assets/sprites/boiler1[lvl8].png"
+        },
+        {
+          "type": "image",
+          "key": "boiler2",
+          "url": "assets/sprites/boiler2[lvl8].png"
+        },
+        {
+          "type": "image",
+          "key": "stationInput",
+          "url": "assets/sprites/stationInput.png"
+        },
+        {
+          "type": "image",
+          "key": "stationOutput",
+          "url": "assets/sprites/stationOutput.png"
+        },
+        {
+          "type": "image",
+          "key": "assemblyTable8",
+          "url": "assets/sprites/assemblyTable[lvl8].png"
+        },
+        {
+          "type": "image",
+          "key": "butter",
+          "url": "assets/sprites/butter.png"
+        },
+        {
+          "type": "image",
+          "key": "cream",
+          "url": "assets/sprites/cream.png"
+        },
+        {
+          "type": "image",
+          "key": "creamEggYolk",
+          "url": "assets/sprites/creamEggYolk.png"
+        },
+        {
+          "type": "image",
+          "key": "egg",
+          "url": "assets/sprites/egg.png"
+        },
+        {
+          "type": "image",
+          "key": "eggYolk",
+          "url": "assets/sprites/eggYolk.png"
+        },
+        {
+          "type": "image",
+          "key": "leek",
+          "url": "assets/sprites/leek.png"
+        },
+        {
+          "type": "image",
+          "key": "leekSliced",
+          "url": "assets/sprites/leekSliced.png"
+        },
+        {
+          "type": "image",
+          "key": "leekSlicedCooked",
+          "url": "assets/sprites/leekSlicedCooked.png"
+        },
+        {
+          "type": "image",
+          "key": "onion",
+          "url": "assets/sprites/onion.png"
+        },
+        {
+          "type": "image",
+          "key": "onionSliced",
+          "url": "assets/sprites/onionSliced.png"
+        },
+        {
+          "type": "image",
+          "key": "onionSlicedCooked",
+          "url": "assets/sprites/onionSlicedCooked.png"
+        },
+        {
+          "type": "image",
+          "key": "onionSauce",
+          "url": "assets/sprites/onionSauce.png"
+        },
+        {
+          "type": "image",
+          "key": "salmon",
+          "url": "assets/sprites/salmon.png"
+        },
+        {
+          "type": "image",
+          "key": "salmonDish",
+          "url": "assets/sprites/salmonDish.png"
+        },
+        {
+          "type": "image",
+          "key": "salmonSliced",
+          "url": "assets/sprites/salmonSliced.png"
+        },
+        {
+          "type": "image",
+          "key": "salmonSlicedCooked",
+          "url": "assets/sprites/salmonSlicedCooked.png"
+        },
+        {
+          "type": "image",
+          "key": "water",
+          "url": "assets/sprites/water.png"
+        }
+      ]
+    }
+  }

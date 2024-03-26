@@ -1,0 +1,3 @@
+In dem Spiel PetriMensa musst du versuchen mit hilfe von deinen Petrinetz Kenntnissen ein Gericht zu kochen, welches deine Kunden glücklich macht.
+Dafür steurst du die Pfeile mit denen du deine Zutaten zu den Kochstationen leitest mit deiner Maus, in welchen du diese weiter verarbeitest. Wichtig hierfür ist, dass du nicht ewig Zeit hast und deine Kunden natürlich ihr Essen möglichst schnell haben wollen also halt dich ran und verschwende keine Zeit, aber auch kein Essen. 
+Dafür könnten unteranderem auch Filter nützlich sein mit denen du bestimmte Items rausziehen kannst. Ich hoffe diese kurze Beschreibung hat dir Hunger auf mehr von unserem Spiel gegeben, stürtze dich gleich ins Kochen und erlebe das Spiel mit eigenen Augen.  

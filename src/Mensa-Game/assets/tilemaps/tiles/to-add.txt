@@ -1,0 +1,3 @@
+Files to Add:
+
+default.png  (Dimension: 512x512)

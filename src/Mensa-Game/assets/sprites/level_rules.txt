@@ -1,0 +1,137 @@
+Level 1: Egg
+
+Ingredients: 
+["egg"]
+________________________________________________
+
+Level 2: Pizza
+
+Ingredients:
+["pizzaUncooked", "pizzaCooked"]
+
+Rules:
+["pizzaUncooked"],["pizzaCooked"]
+________________________________________________
+
+Level 3: Pasta (simple)
+
+Ingredients:
+["pastaDry", "pastaDone", "tomatoSauceGlass", "tomatoSauceUncooked", "tomatoSauceCooked", "pastaDish"]
+
+Rules:
+Pot
+["pastaDry"], ["pastaDone"]
+["tomatoSauceUncooked"], ["tomatoSauceCooked"]
+
+AssemblyTable
+["tomatoSauceGlass"], ["tomatoSauceUncooked"]
+["pastaDone", "tomatoSauceCooked"], ["pastaDish"]
+________________________________________________
+
+Level 4: Caeser Salad
+
+Ingredients: 
+["tomatoDirty", "tomato", "tomatoSliced", "CucumberDirty", "CucumberClean", "CucumberSliced", "LettuceDirty",
+ "LettuceClean", "LettuceSliced", "Bread", "BreadSliced", "BreadFried", "ChickenRaw", "ChickenRawSliced", 
+ "ChickenFried", "DishCesarSalad"]
+
+Rules:
+WashingStation
+["tomatoDirty"], ["tomato"]
+["CucumberDirty"], ["CucumberClean"]
+["LettuceDirty"], ["LettuceClean"]
+
+CuttingBoard1
+["tomato"], ["tomatoSliced"]
+["CucumberClean"], ["CucumberSliced"]
+["LettuceClean"], ["LettuceSliced"]
+
+CuttingBoard2
+["ChickenRaw"], ["ChickenRawSliced"]
+["Bread"], ["BreadSliced"]
+
+Pan
+["ChickenRawSliced"], ["ChickenFried"]
+["BreadSliced"], ["BreadFried"]
+
+AssemblyTable
+["BreadFried", "LettuceSliced", "tomatoSliced", "tomatoSliced", "CucumberSliced", "CucumberSliced", "ChickenFried"], ["DishCesarSalad"]
+________________________________________________
+
+Level 5: Pho Nudelsuppe
+
+Ingredients: 
+["BeefBone", "BeefRawSliced", "BeefFried", "BeefBoneBroth", "Bone", "Ginger", "GingerSliced",
+ "carrotDirty", "carrot", "CarrotSliced", "PakChoiDirty", "PakChoiClean", "NoodlesPHO",
+"NoodlesPHOCooked", "DishPhoNoodles"]
+
+Rules
+WashingStation
+["carrotDirty"], ["carrot"]
+["PakChoiDirty"], ["PakChoiClean"]
+
+CuttingBoard
+["BeefBone"], ["BeefRawSliced", "Bone", "Bone"]
+["carrot"], ["CarrotSliced"]
+["Ginger"], ["GingerSliced"]
+
+Pan
+["BeefRawSliced"], ["BeefFried"]
+
+Boiler
+["NoodlesPHO"], ["NoodlesPHOCooked"]
+["Bone", "Bone", "GingerSliced", "CarrotSliced", "CarrotSliced"], ["BeefBoneBroth", "Bone", "Bone"]
+
+AssemblyTable
+["NoodlesPHOCooked", "BeefBoneBroth", "PakChoiClean", "PakChoiClean", "BeefFried"], ["DishPhoNoodles"]
+________________________________________________
+
+Level 6: Pasta (advanced)
+
+Ingredients:
+["onion", "carrot", "tomato", "onionDiced", "carrotCut", "tomatoSliced", "carrotOnionRoasted", "tomatoSauceCooked", "pastaDry", "pastaDone", "pastaDish"]
+
+Rules:
+CuttingStation
+["onion"], ["onionDiced"]
+["carrot"], ["carrotCut"]
+["tomato"], ["tomatoSliced"]
+
+Pan
+["onionDiced", "carrotCut"], ["carrotOnionRoasted"]
+
+Pot
+["pastaDry"], ["pastaDone"]
+["tomatoSliced", "tomatoSliced", "tomatoSliced", "tomatoSliced", "carrotOnionRoasted"], ["tomatoSauceCooked"]
+
+AssemblyTable
+["pastaDone", "tomatoSauceCooked"], ["pastaDish"]
+________________________________________________
+
+Level 8: Lachsfilet in heller Lauchsauce
+
+Ingredients:
+["butter", "cream", "creamEggYolk", "eggYolk", "leek", "leekSliced", "leekSlicedCooked", "onion", "onionSliced",
+ "onionSlicedCooked", "onionSauce", "salmon", "salmonDish", "salmonSliced", "salmonSlicedCooked", "water"]
+
+Crates:
+"crateButter", "crateCream", "crateLeek", "crateOnions", "crateSalmon", "crateWater"
+
+Rules:
+"cuttingBoard[lvl8]"
+["leek"], ["leekSliced"]
+["salmon"], ["salmonSliced"]
+["onion"], ["onionSliced"]
+
+"boiler1[lvl8]"
+["leekSliced"], ["leekSlicedCooked"]
+["salmon", "salmon", "water", "water"], ["salmonSlicedCooked"]
+
+"boiler2[lvl8]"
+["onionSliced", "butter"], ["onionSlicedCooked"]
+["onionSlicedCooked", "creamEggYolk"], ["onionSauce"]
+
+"assemblyTable[lvl8]"
+["egg"], ["eggYolk"]
+["eggYolk", "cream"], ["creamEggYolk"]
+["leekSlicedCooked", "leekSlicedCooked", "leekSlicedCooked", "salmonSlicedCooked", "salmonSlicedCooked", "onionSauce"], ["salmonDish"]

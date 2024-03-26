@@ -1,0 +1,37 @@
+{
+    "preload_level02": {
+        "files": [
+            {
+            "type": "image",
+            "key": "cratePizza",
+            "url": "assets/sprites/cratePizza.png"
+            },
+            {
+            "type": "image",
+            "key": "pizzaUncooked",
+            "url": "assets/sprites/pizzaUncooked.png"
+            },
+            {
+            "type": "image",
+            "key": "pizzaCooked",
+            "url": "assets/sprites/pizzaCooked.png"
+            },
+            {
+            "type": "image",
+            "key": "oven",
+            "url": "assets/sprites/oven[lvl2].png"
+            },
+            {
+            "type": "image",
+            "key": "stationInput",
+            "url": "assets/sprites/stationInput.png"
+            },
+            {
+            "type": "image",
+            "key": "stationOutput",
+            "url": "assets/sprites/stationOutput.png"
+            }
+        ]
+    }
+}
+  

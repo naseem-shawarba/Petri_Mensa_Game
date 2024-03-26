@@ -1,0 +1,67 @@
+{
+    "preload_level02": {
+        "files": [
+            {
+            "type": "image",
+            "key": "crateTomatoSauce",
+            "url": "assets/sprites/crateTomatoSauce.png"
+            },
+            {
+            "type": "image",
+            "key": "pastaMaker",
+            "url": "assets/sprites/pastaMaker.png"
+            },
+            {
+            "type": "image",
+            "key": "tomatoSauceGlass",
+            "url": "assets/sprites/tomatoSauceGlass.png"
+            },
+            {
+            "type": "image",
+            "key": "tomatoSauceCooked",
+            "url": "assets/sprites/tomatoSauceCooked.png"
+            },
+            {
+            "type": "image",
+            "key": "tomatoSauceUncoocked",
+            "url": "assets/sprites/tomatoSauceUncoocked.png"
+            },
+            {
+            "type": "image",
+            "key": "pastaDone",
+            "url": "assets/sprites/pastaDone.png"
+            },
+            {
+            "type": "image",
+            "key": "pastaDry",
+            "url": "assets/sprites/pastaDry.png"
+            },
+            {
+            "type": "image",
+            "key": "pastaDish",
+            "url": "assets/sprites/pastaDish.png"
+            },
+            {
+            "type": "image",
+            "key": "assemblyTablel3",
+            "url": "assets/sprites/assemblyTable[lvl3].png"
+            },
+            {
+            "type": "image",
+            "key": "boilerl3",
+            "url": "assets/sprites/boiler[lvl3].png"
+            },
+            {
+            "type": "image",
+            "key": "stationInput",
+            "url": "assets/sprites/stationInput.png"
+            },
+            {
+            "type": "image",
+            "key": "stationOutput",
+            "url": "assets/sprites/stationOutput.png"
+            }
+        ]
+    }
+}
+  
