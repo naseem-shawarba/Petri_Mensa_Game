@@ -4,7 +4,7 @@ Petri Mensa Game is an educational game based on Petri nets, designed using Phas
 
 ## Contributors
 
-Special thanks to the following contributors for their contributions to the Petri Mensa Game project: N. Shawarba, D. Becker, Y. Elfari, E. Inguanta, P. Novotnyy, D. Salis and J. Thauer
+Special thanks to the following contributors for their contributions to the Petri Mensa Game project: N. Shawarba, D. Becker, Y. Elfari, E. Inguanta, P. Meusling, P. Novotnyy, D. Salis and J. Thauer.
 
 ## Before Running the Game
 
