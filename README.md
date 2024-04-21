@@ -1,6 +1,12 @@
 # Petri Mensa Game
 
-Petri Mensa Game is an educational game based on Petri nets, designed using Phaser.js to provide an interactive and engaging experience for players while emphasizing time and network optimization.
+
+
+The game introduces users to the concepts of Petri nets through engaging gameplay. By challenging players to follow recipes, we encourage a playful exploration of Petri net structures. Time management is key, emphasizing the importance of optimizing the network.
+
+At each level, players encounter food baskets, a cooking station, tools to draw arrows for directing food travel paths, and filters to segregate food along specific routes. Users must follow recipes to deliver the food to the endpoint. The game resembles the creation of factory stations, connecting them with each other and with food baskets and the finsh point.
+
+<img src="https://pr.mtv.tu-berlin.de/screenshots/2022sose/petrimensa.png" alt="Petri Mensa Wallpaper">
 
 ## Contributors
 
